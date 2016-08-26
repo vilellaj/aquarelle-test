@@ -1,2 +1,10 @@
 # aquarelle-test
-Justin testin Ramotion's Aquarelle lib.
+Just testing Ramotion's Aquarelle lib.
+
+Download the repo and run: 
+
+```
+bower install
+```
+
+
